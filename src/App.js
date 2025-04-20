@@ -49,17 +49,17 @@ function App() {
           <div className="p-6 bg-gray-50 rounded-2xl shadow">
             <h3 className="text-2xl font-semibold mb-2">Why React + Vite is a Game-Changer</h3>
             <p className="mb-4">Discover how this modern setup improves developer productivity and site performance.</p>
-            <a href="#" className="text-indigo-600 font-semibold">Read More</a>
+            
           </div>
           <div className="p-6 bg-gray-50 rounded-2xl shadow">
             <h3 className="text-2xl font-semibold mb-2">5 Tips for Faster Frontend Builds</h3>
             <p className="mb-4">Simple techniques to shave seconds off your build and deploy times.</p>
-            <a href="#" className="text-indigo-600 font-semibold">Read More</a>
+            
           </div>
           <div className="p-6 bg-gray-50 rounded-2xl shadow">
             <h3 className="text-2xl font-semibold mb-2">Deploying to Cloudflare Pages</h3>
             <p className="mb-4">Step-by-step guide to take your project live in minutes with Cloudflare.</p>
-            <a href="#" className="text-indigo-600 font-semibold">Read More</a>
+            
           </div>
         </div>
       </section>
